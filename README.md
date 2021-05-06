@@ -39,6 +39,6 @@
 <a href="https://discord.gg/TDUvsfDe4D">Noen Liet#6006</a><br><a>M o o n l i g h t#4730</a>
 
 <h2>Errors and Solutions / Hatalar ve Çözümleri</h2>
-<p>E1. I am not getting an error, but RPC is not showing. / Bir hata almıyorum ama RPC gözükmüyor.</p>
-<p>S1. Make sure that the option below is active. (User Setting > Game Activity) / Aşağıdaki seçeneğin aktif olduğundan emin olunuz. (Kullanıcı Ayarları > Oyun Etkinliği)</p>
+<p><b>E1</b>. I am not getting an error, but RPC is not showing. / Bir hata almıyorum ama RPC gözükmüyor.</p>
+<p><b>S1</b>. Make sure that the option below is active. (User Setting > Game Activity) / Aşağıdaki seçeneğin aktif olduğundan emin olunuz. (Kullanıcı Ayarları > Oyun Etkinliği)</p>
 <img src="https://user-images.githubusercontent.com/72984140/117354326-e2ab6c00-aeb9-11eb-87fe-b7cca088b326.png">
