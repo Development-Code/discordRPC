@@ -22,3 +22,7 @@
 <h3>Özel Teşekkürler:</h3>
 <p>Noen Liet#6006</p>
 <p>M o o n l i g h t#4730</p>
+
+<h2>English</h2>
+<p>Hello, I'm  <a href="https://github.com/Lareithen">Emirhan</a>! I am someone who tries to improve myself in software. I usually share my projects on GitHub platform. This project is one of them. This application, which has an GUI with the <b>PyQt5</b> library and the Discord Rich Presence function with the <b>pypresence</b> library, has been developed and continues to be developed to make it easier for you to play in the Discord application. If Python is installed on your device, it can be used without an optional GUI, you can make your settings manually.</p>
+<h3>Setup</h3>
