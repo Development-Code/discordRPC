@@ -10,7 +10,7 @@
 <h4>GUI Setup</h4>
 <p>There are 2 options to use with GUI.</p>
 <p> - If you want to use the application with an gui over Python, you must install the necessary modules and Python. Modules are installed by opening the command prompt or PowerShell. After opening any of them, it will be enough to type <b>pip install pyqt5-tools</b>, <b>pip install pypresence</b>. Now you can run the gui.py file.</p>
-<p>- If you don't want to install Python and libraries. If you don't want to mess with anything, you should click to this link and download zip file:</p>
+<p>- If you don't want to install Python and libraries. If you don't want to mess with anything, you should click to this link and download zip file: https://www.mediafire.com/file/y73s1bqpb86q930/rpcbylarei_en.zip/file</p>
 <h4>Without GUI Setup</h4>
 <p>First, you must install Python and the necessary modules. After Python is installed, it will be enough to open command prompt or PowerShell and type <b> pip install pyqt5-tools </b>, <b> pip install pypresence </b>. You can now run the withoutgui.py file.</p>
 <h3>Why should I trust you?</h3>
