@@ -17,6 +17,8 @@
 <p>You can scan the source code of the application i made above with VirusTotal. I scanned, here are the results: (2 virus programs say there are Trojans, i think this is due to <a href="https://github.com/Lareithen/discordRPC/blob/a9aec629b5fff6472929c59ba2244b69846a5fae/discordRPC-tr/arayuz.py#L171">connecting to Discord</a> or <a href="https://github.com/Lareithen/discordRPC/blob/a9aec629b5fff6472929c59ba2244b69846a5fae/discordRPC-tr/arayuz.py#L135">saving your files</a>.)<br>https://www.virustotal.com/gui/file/574ac396b36d22578b64b8b472398d2138e3da1142e1defb834b8208b8bac445/detection</p>
 <h3>Note</h3>
 <p>It was carefully coded (tried to be encoded) by Lareithen. It may contain bugs as it is currently in beta. It continues to be developed.</p>
+<p><b>If RPC is not visible, activate this option.</b></p>
+<img src="https://user-images.githubusercontent.com/72984140/117352708-f81f9680-aeb7-11eb-99f7-c698c86320d1.png">
 <h3>Special Thanks:</h3>
 <a href="https://discord.gg/TDUvsfDe4D">Noen Liet#6006</a><br><a>M o o n l i g h t#4730</a>
 
@@ -34,5 +36,7 @@
 <p>Bende olsam bende güvenmem(güvenebilirim de aslında). Şaka bir yana yaptığım uygulamanın kaynak kodları yukarıda ve VirusTotal ile taratabilirsiniz. Ben tarattım, buyrun sonuçlar: (2 tane virüs programı trojan olduğunu söylüyor, sanıyorum ki <a href="https://github.com/Lareithen/discordRPC/blob/a9aec629b5fff6472929c59ba2244b69846a5fae/discordRPC-tr/arayuz.py#L171">Discord'a bağlanmasından</a> ya da <a href="https://github.com/Lareithen/discordRPC/blob/a9aec629b5fff6472929c59ba2244b69846a5fae/discordRPC-tr/arayuz.py#L135">ayarlarınızı kaydetme</a> özelliğinden kaynaklanıyor.)<br>https://www.virustotal.com/gui/file/574ac396b36d22578b64b8b472398d2138e3da1142e1defb834b8208b8bac445/detection</p>
 <h3>Not</h3>
 <p>Lareithen tarafından özenle kodlandı(kodlanmaya çalışıldı). Şu an beta sürümü olduğu için bug içerebilir. Eğer Python ve PyQt5'te kendinizi yetenekli buluyorsanız, sizinle iletişime geçmek isterim!</p>
+<p><b>Eğer RPC gözükmüyor ise bu seçeneği aktif ediniz.</b></p>
+<img src="https://user-images.githubusercontent.com/72984140/117352708-f81f9680-aeb7-11eb-99f7-c698c86320d1.png">
 <h3>Özel Teşekkürler:</h3>
 <a href="https://discord.gg/TDUvsfDe4D">Noen Liet#6006</a><br><a>M o o n l i g h t#4730</a>
