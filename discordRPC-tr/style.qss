@@ -1,0 +1,50 @@
+QWidget {
+    background-color: #2C2F33;
+}
+QPushButton {
+    background-color: #7289DA;
+    border-style: outset;
+    border-radius: 5px;
+    font: bold, 10px;
+    padding: 5px;
+}
+QPushButton:hover {
+    background-color: #98a6d9;
+}
+QPushButton:pressed {
+    background-color: white;
+}
+QPushButton#gh {
+    background-color: black;
+    border-style: outset;
+    border-radius: 5px;
+    border: 2px solid white;
+    font: bold 10px;
+    color: white;
+    padding: 5px;
+}
+QPushButton#dc {
+    background-color: #7289DA;
+    border-style: outset;
+    border-radius: 5px;
+    border: 2px solid white;
+    font: bold 10px;
+    color: white;
+    padding: 5px;
+}
+QLineEdit {
+    border: 1px solid white;
+    border-radius: 3px;
+    color: white;
+}
+QSpinBox {
+    color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+QGroupBox, QLabel, QCheckBox {
+    color: white;
+}
+QMenuBar {
+    background-color: white;
+}
