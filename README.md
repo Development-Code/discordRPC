@@ -1,8 +1,9 @@
 <h1 align="center"><b>Discord Rich Presence</b></h1>
-<h2>Türkçe</h2>
 <p align="center">
   <a href="https://discord.gg/aaYjVKC"><img alt="Discord" src="https://img.shields.io/discord/766643389062971413?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=flat-square"></a>
   <a href="https://github.com/qwertyquerty/pypresence"><img alt="pypresence" src="https://img.shields.io/badge/using-pypresence-00bb88.svg?style=flat-square&logo=discord&logoWidth=20"></a>
+</p>
+<h2>Türkçe</h2>
 </p>
 <h3>Açıklama</h3>
 <p>Merhabalar, ben <a href="https://github.com/Lareithen">Emirhan</a>! Kendimi yazılım konusunda geliştirmeye çalışan birisiyim. Genellikle yaptığım projelerimi GitHub platformunda paylaşırım. Bu proje de onlardan bir tanesi. <b>PyQt5</b> kütüphanesi ile arayüzü, <b>pypresence</b> kütüphanesi ile de Discord Rich Presence fonksiyonu kodlanan bu uygulama size Discord uygulamasında oynuyor özelliğini daha kolay bir şekilde yapmanız için geliştirildi ve geliştirilmeye devam ediyor. Eğer cihazınızda Python kurulu ise isteğe bağlı arayüzsüz kullanımı mevcuttur, manuel bir şekilde ayarlarınızı yapabilirsiniz.</p>
