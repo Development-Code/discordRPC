@@ -13,3 +13,10 @@
 <p>- Eğer Python ve kütüphanelerini kurmak istemiyorsanız. Sizi şu linke alalım:</p>
 <h4>Arayüzsüz Kurulumu</h4>
 <p>İlk olarak Python ve gerekli modülleri kurmalısınız. Python kurulduktan sonra komut istemi ya da PowerShell'i açıp sırasıyla <b>pip install pyqt5-tools</b>, <b>pip install pypresence</b> yazmanız yeterli olacaktır. Artık arayuzsuz.py dosyasını çalıştırabilirsiniz.</p>
+<h3>Sana nasıl güveneyim?</h3>
+<p>Bende olsam bende güvenmem(güvenebilirim de aslında). Ama yaptığım uygulamanın kaynak kodları yukarıda ve VirusTotal ile taratabilirsiniz. Ben tarattım, buyrun sonuçlar: https://www.virustotal.com/gui/file/574ac396b36d22578b64b8b472398d2138e3da1142e1defb834b8208b8bac445/detection</p>
+<h3>Not</h3>
+<p>Lareithen tarafından özenle kodlandı(kodlanmaya çalışıldı). Şu an beta sürümü olduğu için bug içerebilir. Eğer Python ve PyQt5'te kendinizi yetenekli buluyorsanız, sizinle iletişime geçmek isterim!</p>
+<h3>Özel Teşekkürler:</h3>
+<p>Noen Liet#6006</p>
+<p>M o o n l i g h t#4730</p>
