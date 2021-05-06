@@ -1,6 +1,15 @@
-<h1 align="center"><b>Türkçe</b></h1>
+<h1 align="center"><b>Discord Rich Presence</b></h1>
+<h2>Türkçe</h2>
 <p align="center">
   <a href="https://discord.gg/aaYjVKC"><img alt="Discord" src="https://img.shields.io/discord/766643389062971413?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=flat-square"></a>
   <a href="https://github.com/qwertyquerty/pypresence"><img alt="pypresence" src="https://img.shields.io/badge/using-pypresence-00bb88.svg?style=flat-square&logo=discord&logoWidth=20"></a>
 </p>
-<p><b>PyQt5</b> kütüphanesi ile arayüzü, <b>pypresence</b> kütüphanesi ile de Discord Rich Presence fonksiyonu kodlanmıştır.</p>
+<h3>Açıklama</h3>
+<p>Merhabalar, ben <a href="https://github.com/Lareithen">Emirhan</a>! Kendimi yazılım konusunda geliştirmeye çalışan birisiyim. Genellikle yaptığım projelerimi GitHub platformunda paylaşırım. Bu proje de onlardan bir tanesi. <b>PyQt5</b> kütüphanesi ile arayüzü, <b>pypresence</b> kütüphanesi ile de Discord Rich Presence fonksiyonu kodlanan bu uygulama size Discord uygulamasında oynuyor özelliğini daha kolay bir şekilde yapmanız için geliştirildi ve geliştirilmeye devam ediyor. Eğer cihazınızda Python kurulu ise isteğe bağlı arayüzsüz kullanımı mevcuttur, manuel bir şekilde ayarlarınızı yapabilirsiniz.</p>
+<h3>Kurulum</h3>
+<h4>Arayüzlü Kurulumu</h4>
+<p>Arayüz ile kullanmak için karşınıza 2 seçenek çıkıyor.</p>
+<p>- Uygulamayı eğer Python üzerinden arayüzlü bir şekilde kullanmak istiyorsanız, gerekli olan modülleri ve tabii ki Python'u kurmalısınız. Modüller ise komut istemi ya da PowerShell açılarak kurulur. Bunlardan herhangi birini açtıktan sonra sırasıyla <b>pip install pyqt5-tools</b>, <b>pip install pypresence</b> yazmanız yeterli olacaktır. Artık arayuz.py dosyasını çalıştırabilirsiniz.</p>
+<p>- Eğer Python ve kütüphanelerini kurmak istemiyorsanız. Sizi şu linke alalım:</p>
+<h4>Arayüzsüz Kurulumu</h4>
+<p>İlk olarak Python ve gerekli modülleri kurmalısınız. Python kurulduktan sonra komut istemi ya da PowerShell'i açıp sırasıyla <b>pip install pyqt5-tools</b>, <b>pip install pypresence</b> yazmanız yeterli olacaktır. Artık arayuzsuz.py dosyasını çalıştırabilirsiniz.</p>
