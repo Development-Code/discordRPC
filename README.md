@@ -4,7 +4,7 @@
   <a href="https://discord.gg/aaYjVKC"><img alt="Discord" src="https://img.shields.io/discord/766643389062971413?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=flat-square"></a>
   <a href="https://github.com/qwertyquerty/pypresence"><img alt="pypresence" src="https://img.shields.io/badge/using-pypresence-00bb88.svg?style=flat-square&logo=discord&logoWidth=20"></a>
 </p>
-<h2>English</h2>
+<h2 align="center">English</h2>
 <p>Hello, I'm  <a href="https://github.com/Lareithen">Emirhan</a>! I am someone who tries to improve myself about software. I usually share my projects on GitHub platform. This project is one of them. This application, which has an GUI with the <b>PyQt5</b> library and the Discord Rich Presence function with the <b>pypresence</b> library, has been developed and continues to be developed to make it easier for you to play in the Discord application. If Python is installed on your device, it can be used without an optional GUI, you can make your settings manually.</p>
 <h3>Setup</h3>
 <h4>GUI Setup</h4>
@@ -20,7 +20,7 @@
 <h3>Special Thanks:</h3>
 <a href="https://discord.gg/TDUvsfDe4D">Noen Liet#6006</a><br><a>M o o n l i g h t#4730</a>
 
-<h2>Türkçe</h2>
+<h2 align="center">Türkçe</h2>
 <h3>Açıklama</h3>
 <p>Merhabalar, ben <a href="https://github.com/Lareithen">Emirhan</a>! Kendimi yazılım konusunda geliştirmeye çalışan birisiyim. Genellikle yaptığım projelerimi GitHub platformunda paylaşırım. Bu proje de onlardan bir tanesi. <b>PyQt5</b> kütüphanesi ile arayüzü, <b>pypresence</b> kütüphanesi ile de Discord Rich Presence fonksiyonu kodlanan bu uygulama size Discord uygulamasında oynuyor özelliğini daha kolay bir şekilde yapmanız için geliştirildi ve geliştirilmeye devam ediyor. Eğer cihazınızda Python kurulu ise isteğe bağlı arayüzsüz kullanımı mevcuttur, manuel bir şekilde ayarlarınızı yapabilirsiniz.</p>
 <h3>Kurulum</h3>
