@@ -1,5 +1,6 @@
 <h1 align="center"><b>Discord Rich Presence</b></h1>
 <p align="center">
+  <a href="https://www.youtube.com/channel/UC04gEGNKl9V8UyjIDh6RE6g"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC04gEGNKl9V8UyjIDh6RE6g?color=%23f00002&label=YouTube&logo=youtube&logoColor=white&style=flat-square"></a>
   <a href="https://discord.gg/aaYjVKC"><img alt="Discord" src="https://img.shields.io/discord/766643389062971413?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=flat-square"></a>
   <a href="https://github.com/qwertyquerty/pypresence"><img alt="pypresence" src="https://img.shields.io/badge/using-pypresence-00bb88.svg?style=flat-square&logo=discord&logoWidth=20"></a>
 </p>
