@@ -38,6 +38,6 @@
 <p><b>S1.</b> Make sure that the option below is active. (User Setting > Game Activity) / Aşağıdaki seçeneğin aktif olduğundan emin olunuz. (Kullanıcı Ayarları > Oyun Etkinliği)</p>
 <img src="https://user-images.githubusercontent.com/72984140/117354326-e2ab6c00-aeb9-11eb-87fe-b7cca088b326.png">
 <br>
-<p><b>E2.</b> <i>"Failed to execute script gui"</i></p>
+<p><b>E2.</b> <i>"Failed to execute script <filename>"</i></p>
 <p><b>S2.</b> If you get this error, it is because the file with the .qss extension and the file with the .exe extension are not in the same directory. For a solution, keep the .qss and the .exe file in the same directory. / Bu hatayı alırsanız, bunun nedeni .qss uzantılı dosyanın ve .exe uzantılı dosya ile aynı dizinde olmamasıdır. Çözüm için, .qss ve .exe dosyasını aynı dizinde tutun.</p>
 <img src="https://user-images.githubusercontent.com/72984140/117356871-eb517180-aebc-11eb-8800-b6840b8c7b17.png">
