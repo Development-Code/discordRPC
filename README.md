@@ -16,7 +16,7 @@
 <h3>Why should I trust you?</h3>
 <p>You can scan the source code of the application i made above with VirusTotal. I scanned, here are the results: (2 virus programs say there are Trojans, i think this is due to <a href="https://github.com/Lareithen/discordRPC/blob/a9aec629b5fff6472929c59ba2244b69846a5fae/discordRPC-tr/arayuz.py#L171">connecting to Discord</a> or <a href="https://github.com/Lareithen/discordRPC/blob/a9aec629b5fff6472929c59ba2244b69846a5fae/discordRPC-tr/arayuz.py#L135">saving your files</a>.)<br>https://www.virustotal.com/gui/file/574ac396b36d22578b64b8b472398d2138e3da1142e1defb834b8208b8bac445/detection</p>
 <h3>Note</h3>
-<p>It was carefully coded (tried to be encoded) by Lareithen. It may contain bugs as it is currently in beta. It continues to be developed.</p>
+<p>It was carefully coded (tried to be coded) by Lareithen. It may contain bugs as it is currently in beta. It continues to be developed.</p>
 
 <h2 align="center">Türkçe</h2>
 <h3>Açıklama</h3>
